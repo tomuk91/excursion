@@ -1,3 +1,7 @@
+html {
+    text-align: center
+}
+
 header h1 {
     font-family: Verdana;
     font-weight: normal;
@@ -8,13 +12,20 @@ header h1 {
 
 .main {
     background-color: black;
+    
 }
 
 body {
     background-color: black;
+    align-items: center;
 }
 
 a {
     color: Aquamarine;
     font-size: 16px;
+    text-align: center;
+}
+
+.video {
+    align-items: center;
 }
