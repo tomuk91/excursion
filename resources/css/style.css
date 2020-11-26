@@ -2,8 +2,18 @@ html {
     text-align: center
 }
 
+h1,
+h2,
+h3,
+h4 {
+    font-family: verdana;
+}
+
+h1 {
+    color: white;
+}
+
 header h1 {
-    font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -28,4 +38,14 @@ a {
 
 .video {
     align-items: center;
+}
+
+.guide h1 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.guide h4 {
+    font-size: 21px;
+    color: gray;
 }
